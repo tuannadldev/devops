@@ -1,1 +1,2 @@
 filename2
+su chinh sua trong file 2

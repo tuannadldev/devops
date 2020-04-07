@@ -1,1 +1,3 @@
 filename2
+######su chinh sua trong file 2
+chinh sua sau test reset Head
